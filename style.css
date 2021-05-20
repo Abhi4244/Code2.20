@@ -10,7 +10,7 @@ body{
     background-attachment:fixed;
     background-repeat: no-repeat;
     background-position: top;
-    background-size: 1600px 760px;
+    background-size: cover;
 }
 img{border: groove 1px blue;
 	padding: 50px;
